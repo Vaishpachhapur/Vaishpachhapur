@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaishpachhapur
-- 👀 I’m interested in Painting and Sketching
-- 🌱 I’m currently learning BCA
+- 👀 I’m interested in Web developing
+- 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pachhapurvaishnavi@gmail.com
 
